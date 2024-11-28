@@ -62,17 +62,12 @@ python recover.py
 
 ## How to Open the Discovered Wallet
 
-For assistance with accessing the wallet, reach out to me on Discord ( username: **minight_** ). I will personally help you!
+import seed in exodus wallet
 
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-If you want to show your appreciation for finding a prize wallet, you can send a donation to the following addresses:
-
-- BTC: `15YEFuniTwYAY94FAqLf3GkzDJhdz4Yb9A`
-- ETH: `0x1c581066c6e8A3D4D79F4373fb16b8A82176F748`
 
 ## Star 🌟
 
